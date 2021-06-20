@@ -1,0 +1,16 @@
+#entry 
+#Format: <attribute> : <Value>
+#dn: ou=user,dc=nasa,dc=imslab,dc=org
+#objectClass: organizationalUnit
+#ou: user
+
+dn: cn=E14086020,ou=user,dc=nasa,dc=imslab,dc=org
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+cn: E14086020
+gidNumber: 10001
+homeDirectory: /home/E14086020
+sn: E14086020
+uid: E14086020
+uidnumber: 10001
